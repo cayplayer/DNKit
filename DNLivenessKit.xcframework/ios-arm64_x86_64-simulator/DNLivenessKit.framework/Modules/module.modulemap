@@ -1,0 +1,6 @@
+framework module DNLivenessKit {
+  umbrella header "DNLivenessKit.h"
+
+  export *
+  module * { export * }
+}

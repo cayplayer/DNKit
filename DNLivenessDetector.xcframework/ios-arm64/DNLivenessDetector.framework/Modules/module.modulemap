@@ -1,0 +1,6 @@
+framework module DNLivenessDetector {
+  umbrella header "DNLivenessDetector-umbrella.h"
+
+  export *
+  module * { export * }
+}
